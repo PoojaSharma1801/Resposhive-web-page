@@ -1,1 +1,1 @@
-![Styled Box Output](Screenoutput.png)
+![Styled Box Output](Screen-output.png)
